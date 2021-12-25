@@ -17,6 +17,9 @@
 
 - 📫 How to reach me **author2000.1225@gmail.com**
 
+
+<img src="http://ghchart.rshah.org/shota-nukumizu" alt="shota-nukumizu's Github chart" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nameless_sn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nameless_sn" height="30" width="40" /></a>
