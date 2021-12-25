@@ -20,7 +20,7 @@
 
 <h3 align="left">My Grass-Graph</h3>
 
-<img src="http://ghchart.rshah.org/00ffff/shota-nukumizu" alt="shota-nukumizu's Github chart" />
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shota-nukumizu&bg_color=f8f9fc&color=0a0a0a&line=585cb6&point=03d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
