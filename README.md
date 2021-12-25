@@ -20,7 +20,7 @@
 
 <h3 align="left">My Grass-Graph</h3>
 
-<img src="http://ghchart.rshah.org/shota-nukumizu" alt="shota-nukumizu's Github chart" />
+<img src="http://ghchart.rshah.org/00ffff/shota-nukumizu" alt="shota-nukumizu's Github chart" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
