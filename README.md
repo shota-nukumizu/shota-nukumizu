@@ -27,6 +27,11 @@
 <a href="https://twitter.com/nameless_sn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nameless_sn" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">My Trend</h3>
+
+![my-treand](https://user-images.githubusercontent.com/82911032/147401157-c697b802-0a88-4bde-8aa1-ef516fdb8104.png)
+
+
 <h3 align="left">Frontend Languages:</h3>
 
 <p align="left">
