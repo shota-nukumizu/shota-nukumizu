@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Django, Vue, Nuxt, Angular, TypeScript and Dart.**
 
-- 🤝 I’m looking for help with **connecting Angular with Django.**
-
 - 👨‍💻 All of my projects are available at [https://shota-nukumizu.github.io/my-resume/](https://shota-nukumizu.github.io/my-resume/)
 
 - 📝 I regularly write articles on [https://shotanukumizu-1000.hatenablog.com/](https://shotanukumizu-1000.hatenablog.com/)
