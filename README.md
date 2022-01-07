@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **home.**
 
-- 🌱 I’m currently learning **Django, Vue, Nuxt, Angular, TypeScript and Dart.**
+- 🌱 I’m currently learning **Django, Django REST Framework, Vue, Nuxt, TypeScript and Dart.**
 
 - 👨‍💻 All of my projects are available at [https://shota-nukumizu.github.io/my-resume/](https://shota-nukumizu.github.io/my-resume/)
 
