@@ -27,8 +27,7 @@
 
 <h3 align="left">My Trend</h3>
 
-![スクリーンショット 2022-01-12 104201](https://user-images.githubusercontent.com/82911032/149048818-cea189d8-5f53-4fcd-9fb7-534016e721a4.png)
-
+![スクリーンショット 2022-01-19 071351](https://user-images.githubusercontent.com/82911032/150027201-19e8ee16-a607-4d39-af0a-611d4eef6c52.png)
 
 <h3 align="left">Frontend Languages:</h3>
 
