@@ -2,7 +2,7 @@
 
 <h3>私について</h3>
 
-![スライド1](https://user-images.githubusercontent.com/82911032/150274679-3f5a8efa-7665-4f60-b004-05e3c295eef3.PNG)
+![自己紹介](https://user-images.githubusercontent.com/82911032/150275076-2c86cb86-ee9b-43ee-8284-af35631936ec.png)
 
 
 ![スライド2](https://user-images.githubusercontent.com/82911032/150274695-d4a75f86-f0e5-4efe-8513-34ba7ab2eef7.PNG)
