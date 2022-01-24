@@ -23,7 +23,7 @@
 
 <h3 align="left">私のトレンド</h3>
 
-![スクリーンショット 2022-01-19 071351](https://user-images.githubusercontent.com/82911032/150027201-19e8ee16-a607-4d39-af0a-611d4eef6c52.png)
+![スクリーンショット 2022-01-25 070753](https://user-images.githubusercontent.com/82911032/150873149-84ca55fa-91f2-463e-b43c-0b27331ded5c.png)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shota-nukumizu&show_icons=true&locale=en&layout=compact" alt="shota-nukumizu" /></p>
