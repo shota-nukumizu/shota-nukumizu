@@ -8,6 +8,8 @@ Django REST Frameworkを主戦力とする学生プログラマー。フロン�
 
 「できるだけシンプルに開発」をモットーとして日々の開発に取り組む。最近はTypeScriptやNuxtを使ったフロントエンドや読書にハマっている。
 
+フロントエンドが苦手なので、とりあえずは見やすいデザインを実装できるようにFigmaやTailwindを中心に装飾の質を高めている最中。
+
 ***
 
 ![自己紹介](https://user-images.githubusercontent.com/82911032/150275076-2c86cb86-ee9b-43ee-8284-af35631936ec.png)
