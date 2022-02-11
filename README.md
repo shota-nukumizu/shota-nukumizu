@@ -23,7 +23,7 @@ Django REST Frameworkを主戦力とする学生プログラマー。フロン�
 ▲補足<br>
 最近は、AngularやReactにも興味関心がある。TypeScriptをたくさん勉強して、フロントエンドもきちんと実装できるようにする。(とは言ってもAPI開発がメインだが...)
 
-
+普段のWeb開発に充てる時間は30分～10時間。暇な時は昼食を抜いてまで開発に没頭することがある。
 
 <h3 align="left">Contribution-Graph</h3>
 
