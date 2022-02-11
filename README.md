@@ -20,6 +20,9 @@ Django REST Frameworkを主戦力とする学生プログラマー。フロン�
 
 ![スライド3](https://user-images.githubusercontent.com/82911032/150274718-164a1bc5-f652-438e-a442-8f3c3b59e86b.PNG)
 
+▲補足<br>
+最近は、AngularやReactにも興味関心がある。TypeScriptをたくさん勉強して、フロントエンドもきちんと実装できるようにする。(とは言ってもAPI開発がメインだが...)
+
 
 
 <h3 align="left">Contribution-Graph</h3>
