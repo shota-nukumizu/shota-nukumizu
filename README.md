@@ -25,6 +25,8 @@ Django REST Frameworkを主戦力とする学生プログラマー。フロン�
 
 普段のWeb開発に充てる時間は30分～10時間。暇な時は昼食を抜いてまで開発に没頭することがある。
 
+普段はゲームや読書、プログラミングをして時間を潰していることが多い。
+
 <h3 align="left">Contribution-Graph</h3>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shota-nukumizu&bg_color=f8f9fc&color=0a0a0a&line=585cb6&point=03d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
