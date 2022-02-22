@@ -48,6 +48,10 @@ I started sharing the skills of web development in order to share my knowledge, 
 <a href="https://nestjs.com/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/nestjs.svg" alt="nest" height="30" width="40" /></a>
 </p>
 
+<p align="left">
+<a href="https://flutter.dev/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/MobileAppDevelopment/flutter.svg" alt="flutter" height="30" width="40" /></a>
+</p>
+
 ## Backend
 
 <p align="left">
@@ -76,10 +80,12 @@ I started sharing the skills of web development in order to share my knowledge, 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shota-nukumizu&bg_color=f8f9fc&color=0a0a0a&line=585cb6&point=03d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h3 align="left">Connect with me:</h3>
+# Connect with me:
 <p align="left">
 <a href="https://twitter.com/nameless_sn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nameless_sn" height="30" width="40" /></a>
 </p>
+
+# My Status
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shota-nukumizu&show_icons=true&locale=en&layout=compact" alt="shota-nukumizu" /></p>
