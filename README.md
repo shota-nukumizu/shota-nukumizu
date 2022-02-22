@@ -1,6 +1,7 @@
-<h1>自己紹介　~Self Introduction~</h1>
+# Self Introduction
 
-<h3>私について</h3>
+
+## About Me
 
 ***
 
