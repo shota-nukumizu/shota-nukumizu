@@ -36,10 +36,6 @@ Django REST Frameworkを主戦力とする学生プログラマー。フロン�
 <a href="https://twitter.com/nameless_sn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nameless_sn" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">私のトレンド</h3>
-
-![スクリーンショット 2022-02-07 070808](https://user-images.githubusercontent.com/82911032/152703430-286b5c1f-9efd-4659-8f78-13c59f9b2041.png)
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shota-nukumizu&show_icons=true&locale=en&layout=compact" alt="shota-nukumizu" /></p>
 
