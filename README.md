@@ -1,8 +1,8 @@
 # About Me
 
-I'm Shota Nukumizu. I'm 21 years old and a student programmer. I'm in my third year at Kyushu University. I have practiced coding and launched web development since  I usually share the charm and the skills of web development through social media like Twitter and [my tech blog](https://shotanukumizu-1000.hatenablog.com/) in Japanese. 
+I'm Shota Nukumizu. I'm 21 years old and a student programmer. I'm in my third year at Kyushu University. I have practiced coding and launched web development since March 1, 2021. I usually share the charm and the skills of web development through social media like Twitter and [my tech blog](https://shotanukumizu-1000.hatenablog.com/) in Japanese. 
 
-I started sharing the skills of web development in order to share my knowledge, experience and passions for web development. I usually code for 2 hours at least. I'm very interested in backend development. Especially I like Django REST Framework.I want to become a full-stack developer.
+I started sharing the skills of web development in order to share my knowledge, experience and passions for web development. I usually code for 2 hours at least. I'm very interested in backend development. Especially I like Django REST Framework. I want to become a full-stack developer.
 
 # Programming Languages and Framework
 
