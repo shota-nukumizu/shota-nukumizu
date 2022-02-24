@@ -58,4 +58,4 @@ I started sharing the skills of web development in order to share my knowledge, 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shota-nukumizu&show_icons=true&locale=en&theme=vue-dark" alt="shota-nukumizu" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shota-nukumizu)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shota-nukumizu&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
