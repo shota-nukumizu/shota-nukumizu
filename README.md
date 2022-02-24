@@ -54,8 +54,8 @@ I started sharing the skills of web development in order to share my knowledge, 
 # My Status
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shota-nukumizu&show_icons=true&locale=en&layout=compact" alt="shota-nukumizu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shota-nukumizu&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="shota-nukumizu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shota-nukumizu&show_icons=true&locale=en" alt="shota-nukumizu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shota-nukumizu&show_icons=true&locale=en&theme=vue-dark" alt="shota-nukumizu" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shota-nukumizu)](https://github.com/ryo-ma/github-profile-trophy)
