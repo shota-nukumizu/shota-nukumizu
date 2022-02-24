@@ -44,7 +44,7 @@ I started sharing the skills of web development in order to share my knowledge, 
 
 # Contribution-Graph
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shota-nukumizu&bg_color=f8f9fc&color=0a0a0a&line=585cb6&point=03d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shota-nukumizu&bg_color=121212&color=16e35e&line=1ad527&point=28ef25&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # Connect with me:
 <p align="left">
