@@ -18,7 +18,6 @@ I started sharing the skills of web development in order to share my knowledge, 
 <a href="https://reactjs.org/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/reactjs.svg" alt="react" height="30" width="40" /></a>
 <a href="https://svelte.dev/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/svelte.svg" alt="svelte" height="30" width="40" /></a>
 <a href="https://angular.io/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/angularjs.svg" alt="angular" height="30" width="40" /></a>
-<a href="https://nestjs.com/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/nestjs.svg" alt="nest" height="30" width="40" /></a>
 <a href="https://flutter.dev/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/MobileAppDevelopment/flutter.svg" alt="flutter" height="30" width="40" /></a>
 </p>
 
@@ -26,7 +25,9 @@ I started sharing the skills of web development in order to share my knowledge, 
 
 <p align="left">
 <a href="https://www.python.org/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/python.svg" alt="python" height="30" width="40" /></a>
+<a href="https://www.typescriptlang.org/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/typescript.svg" alt="typescript" height="30" width="40" /></a>
 <a href="https://www.djangoproject.com/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Framework/django.svg" alt="django" height="30" width="40" /></a>
+<a href="https://nestjs.com/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/nestjs.svg" alt="nest" height="30" width="40" /></a>
 </p>
 
 ## Database
