@@ -15,6 +15,7 @@ I started sharing the skills of web development in order to share my knowledge, 
 <a href="https://www.typescriptlang.org/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/typescript.svg" alt="typescript" height="30" width="40" /></a>
 <a href="https://dart.dev/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/MobileAppDevelopment/dart.svg" alt="dart" height="30" width="40" /></a>
 <a href="https://vuejs.org/index.html" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/vuejs.svg" alt="vue" height="30" width="40" /></a>
+<a href="https://vuetifyjs.com/en/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/vuetify.svg" alt="react" height="30" width="40" /></a>
 <a href="https://reactjs.org/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/reactjs.svg" alt="react" height="30" width="40" /></a>
 <a href="https://svelte.dev/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/svelte.svg" alt="svelte" height="30" width="40" /></a>
 <a href="https://angular.io/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/angularjs.svg" alt="angular" height="30" width="40" /></a>
@@ -35,12 +36,14 @@ I started sharing the skills of web development in order to share my knowledge, 
 <p align="left">
 <a href="https://www.mysql.com/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mysql.svg" alt="mysql" height="30" width="40" /></a>
 <a href="https://www.sqlite.org/index.html" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/sqlite.svg" alt="sqlite" height="30" width="40" /></a>
+<a href="https://www.postgresql.org/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/postgresql.svg" alt="sqlite" height="30" width="40" /></a>
 </p>
 
 ## DevOps
 
 <p align="left">
 <a href="https://aws.amazon.com/?nc1=h_ls" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Devops/aws.svg" alt="aws" height="30" width="40" /></a>
+<a href="https://www.docker.com/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Devops/docker.svg" alt="aws" height="30" width="40" /></a>
 </p>
 
 # Contribution-Graph
