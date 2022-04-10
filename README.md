@@ -37,7 +37,6 @@ I started sharing the skills of web development in order to share my knowledge, 
 ## Database
 
 <p align="left">
-<a href="https://www.mysql.com/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mysql.svg" alt="mysql" height="30" width="40" /></a>
 <a href="https://www.sqlite.org/index.html" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/sqlite.svg" alt="sqlite" height="30" width="40" /></a>
 <a href="https://www.postgresql.org/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/postgresql.svg" alt="postgresql" height="30" width="40" /></a>
 </p>
