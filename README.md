@@ -50,6 +50,8 @@ I started sharing the skills of web development in order to share my knowledge, 
 
 # My HandBook
 
+![](thumbnail.png)
+
 [The Handbook of NestJS](https://shota-nukumizu.gitbook.io/nestjs-handbook/)：A technical book on NestJS written in Japanese, edited by Gitbook and released in beta on 15 June. It is planned to re-release the book in an open source form that anyone can write.
 
 # Contribution-Graph
