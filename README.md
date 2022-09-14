@@ -58,6 +58,8 @@ I started sharing the skills of web development in order to share my knowledge, 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shota-nukumizu&bg_color=121212&color=16e35e&line=1ad527&point=28ef25&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<img src="https://grass-graph.appspot.com/images/shota-nukumizu.png">
+
 # Connect with me:
 <p align="left">
 <a href="https://twitter.com/nameless_sn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nameless_sn" height="30" width="40" /></a>
