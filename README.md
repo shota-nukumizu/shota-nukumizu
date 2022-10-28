@@ -18,7 +18,7 @@ I started sharing the skills of web development in order to share my knowledge, 
 
 [![Articles](https://badgen.org/img/zenn/nameless_sn/articles?style=flat)](https://zenn.dev/nameless_sn)
 
-![My Twitter Followers](https://badgen.net/twitter/follow/nameless_sn)
+[![My Twitter Followers](https://badgen.net/twitter/follow/nameless_sn)](https://twitter.com/Nameless_SN)
 
 <a href="https://app.daily.dev/nameless_sn"><img src="https://api.daily.dev/devcards/efdd751fb58246b6aeaa1b94410e8433.png?r=o7d" width="250" alt="Shota Nukumizu's Dev Card"/></a>
 
