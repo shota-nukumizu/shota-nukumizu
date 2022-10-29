@@ -39,6 +39,6 @@ I started sharing the skills of web development in order to share my knowledge, 
 
 # Connect with me:
 <p align="left">
-<a href="https://twitter.com/nameless_sn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nameless_sn" height="60" width="80" /></a>
-<a href="https://medium.com/@author2000.1225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@author2000.1225" height="60" width="80" /></a>
+<a href="https://twitter.com/nameless_sn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nameless_sn" height="30" width="40" /></a>
+<a href="https://medium.com/@author2000.1225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@author2000.1225" height="30" width="40" /></a>
 </p>
