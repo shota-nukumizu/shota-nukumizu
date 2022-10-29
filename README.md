@@ -12,11 +12,7 @@ I started sharing the skills of web development in order to share my knowledge, 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shota-nukumizu&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Likes](https://badgen.org/img/zenn/nameless_sn/likes?style=flat)](https://zenn.dev/nameless_sn)
-
 [![Followers](https://badgen.org/img/zenn/nameless_sn/followers?style=flat)](https://zenn.dev/nameless_sn)
-
-[![Articles](https://badgen.org/img/zenn/nameless_sn/articles?style=flat)](https://zenn.dev/nameless_sn)
 
 [![My Twitter Followers](https://badgen.net/twitter/follow/nameless_sn)](https://twitter.com/Nameless_SN)
 
