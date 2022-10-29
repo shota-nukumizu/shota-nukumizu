@@ -24,11 +24,11 @@ I started sharing the skills of web development in order to share my knowledge, 
 
 # Programming Languages, Frameworks and Tools
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,typescript,dart,flutter,appwrite,firebase,supabase,angular,react,vue,nuxt,next,nest,django,fastapi,graphql,sqlite,mysql,mongo,prisma,github,vscode,docker" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,typescript,dart,flutter,appwrite,firebase,supabase,angular,react,vue,nuxt,next,nest,django,fastapi,graphql,sqlite,mysql,mongo,prisma,github,vscode,figma,docker" /> <br /><br />
 
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=html,css,flutter,appwrite,firebase,supabase,angular,react,nuxt,next,graphql,mysql,prisma,docker" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,flutter,appwrite,firebase,supabase,angular,react,nuxt,next,graphql,mysql,prisma,figma,docker" /> <br /><br />
 
 # My HandBook
 
