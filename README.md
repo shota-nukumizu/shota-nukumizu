@@ -6,9 +6,9 @@ I started sharing the skills of web development in order to share my knowledge, 
 
 # My Status
 
-![Shota's GitHub stats](https://github-readme-stats.vercel.app/api?username=shota-nukumizu&show_icons=true&theme=dracula)
+![Shota's GitHub stats](https://github-readme-stats.vercel.app/api?username=shota-nukumizu&show_icons=true&theme=vue-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shota-nukumizu&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shota-nukumizu&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shota-nukumizu&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
