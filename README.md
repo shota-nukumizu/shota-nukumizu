@@ -1,44 +1,64 @@
-# About Me
+<h1 align="left">Introduction</h1>
 
-I'm Shota Nukumizu. I'm 21 years old and a student programmer. I'm in my third year at Kyushu University. I have practiced coding and launched web development since March 1, 2021. I usually share the charm and the skills of web development through social media like Twitter and [my tech blog](https://shotanukumizu-1000.hatenablog.com/) in Japanese. 
+###
 
-I started sharing the skills of web development in order to share my knowledge, experience and passions for web development. I usually code for 2 hours at least. I'm very interested in backend development. Especially I like Django REST Framework. I want to become a full-stack developer.
+<p align="left">I am Shota Nukumizu.</p>
 
-# My Status
+###
 
-![Shota's GitHub stats](https://github-readme-stats.vercel.app/api?username=shota-nukumizu&show_icons=true&theme=vue-dark)
+<p align="left"></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shota-nukumizu&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shota-nukumizu&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+<h1 align="left">Tech Stack</h1>
 
-[![Followers](https://badgen.org/img/zenn/nameless_sn/followers?style=flat)](https://zenn.dev/nameless_sn)
+###
 
-[![My Twitter Followers](https://badgen.net/twitter/follow/nameless_sn)](https://twitter.com/Nameless_SN)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+</div>
 
-<a href="https://app.daily.dev/nameless_sn"><img src="https://api.daily.dev/devcards/efdd751fb58246b6aeaa1b94410e8433.png?r=zfl" width="400" alt="Shota Nukumizu's Dev Card"/></a>
+###
 
-# My Best Languages, Frameworks, and Tools
+<p align="left"></p>
 
-<img src="https://skillicons.dev/icons?i=python,js,typescript,dart,nest,django,fastapi,mongodb,sqlite,prisma,github,vscode" /> <br /><br />
+###
 
-# Programming Languages, Frameworks and Tools
+<h1 align="left">About me</h1>
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,typescript,dart,flutter,appwrite,firebase,supabase,angular,react,vue,nuxt,next,nest,django,fastapi,graphql,sqlite,mysql,mongo,prisma,github,vscode,figma,docker" /> <br /><br />
+###
 
-# NOW TRAINING
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shota-nukumizu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shota-nukumizu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<img src="https://skillicons.dev/icons?i=html,css,flutter,appwrite,firebase,supabase,angular,react,nuxt,next,graphql,mysql,prisma,figma,docker" /> <br /><br />
+###
 
-# My HandBook
+<h1 align="left">Social Media</h1>
 
-![](thumbnail.png)
+###
 
-[The Handbook of NestJS](https://shota-nukumizu.gitbook.io/nestjs-handbook/)：A technical book on NestJS written in Japanese, edited by Gitbook and released in beta on 15 June. It is planned to re-release the book in an open source form that anyone can write.
-
-
-# Connect with me:
-<p align="left">
-<a href="https://twitter.com/nameless_sn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nameless_sn" height="30" width="40" /></a>
-<a href="https://medium.com/@author2000.1225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@author2000.1225" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+</div>
